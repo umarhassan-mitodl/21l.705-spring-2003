@@ -9,18 +9,18 @@ uid: 32e55859-5f29-dba2-1edc-495a9e1502e4
 ---
 [Bartleby.com](Bartleby.com)
 
-{{% resource_link "93c6137c-a229-4edf-a195-f4f717051949" "Oscariana" %}}
+[Oscariana](http://www.oscarwilde.org.uk/oscariana.html)
 
-{{% resource_link "0bff52ec-0229-4369-bb3a-572700a9b7d1" "ISU Play Concordances: *The Importance of Being Earnest*" %}}
+[ISU Play Concordances: *The Importance of Being Earnest*](https://www.iowastatedaily.com/ames247/being-e-a-rnest-it-s-a-play-on-words-about-playing-on-words/article_c6a57a04-f7f3-11e6-be78-bf1d2ed41ac9.html)
 
-{{% resource_link "706867cf-25fb-4287-94f8-b634c4584597" "Oscar Wilde's 1895 Martyrdom for 'Indecent Acts'" %}}
+[Oscar Wilde's 1895 Martyrdom for 'Indecent Acts'](http://mural.uv.es/cagomar/darkside.htm)
 
-{{% resource_link "bc519edd-e623-416d-b325-723e60b5c790" "World's Best Famous Graves to Visit: Oscar Wilde" %}}
+[World's Best Famous Graves to Visit: Oscar Wilde](http://listverse.com/2011/10/27/top-10-fascinating-graves-in-pre-lachaise/)
 
-{{% resource_link "0b20fb10-d514-4a39-bc96-36661d7633af" "The Trials of Oscar Wilde" %}}
+[The Trials of Oscar Wilde](https://en.wikipedia.org/wiki/The_Trials_of_Oscar_Wilde)
 
-{{% resource_link "e35b66a4-bf32-4900-9bc9-0864be700051" "The Literature Network: Oscar Wilde" %}}
+[The Literature Network: Oscar Wilde](http://www.online-literature.com/wilde/)
 
-{{% resource_link "95bc35eb-af5c-4261-be60-0f005f867647" "Reading Wilde, Querying Spaces" %}}
+[Reading Wilde, Querying Spaces](https://books.google.com/books?id=FZDHkUFRM2oC&printsec=frontcover#v=onepage&q&f=false)
 
-{{% resource_link "50072700-b0a1-486e-bc2f-52470fc5a56b" "Neurotic Poets: Oscar Wilde" %}}
+[Neurotic Poets: Oscar Wilde](https://neuroticpoets.com/wilde)
